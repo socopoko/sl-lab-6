@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "biodata"
+    }
+  },
+  "defaultProject": "biodata",
+  "cli": {
+    "analytics": "11f63b26-e3af-4aa3-8668-c3c559abaaef"
+  }
 }
